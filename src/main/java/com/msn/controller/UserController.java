@@ -21,7 +21,7 @@ public class UserController {
 		if (name.equalsIgnoreCase("test")) {
 			throw new RuntimeException("Opps Exception raised....");
 		}
-		String response = "Hi " + name + " Welcome to Java Techie";
+		String response = "Hi " + name + " Welcome to Spring boot logging example";
 		log.debug("Response {}", response);
 		return response;
 	}
