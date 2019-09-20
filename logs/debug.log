@@ -1,0 +1,14 @@
+2019-09-20 17:53:40 [main] INFO  c.m.SpringBootLoggingExampleApplication
+				-Starting SpringBootLoggingExampleApplication on DIN16004869 with PID 3012 (D:\Users\mshafina\Desktop\ZZ_STS\spring-boot-logging-example\target\classes started by mshafina in D:\Users\mshafina\Desktop\ZZ_STS\spring-boot-logging-example)
+2019-09-20 17:53:40 [main] DEBUG c.m.SpringBootLoggingExampleApplication
+				-Running with Spring Boot v2.1.4.RELEASE, Spring v5.1.6.RELEASE
+2019-09-20 17:53:40 [main] INFO  c.m.SpringBootLoggingExampleApplication
+				-No active profile set, falling back to default profiles: default
+2019-09-20 17:53:43 [main] INFO  c.m.SpringBootLoggingExampleApplication
+				-Started SpringBootLoggingExampleApplication in 2.797 seconds (JVM running for 3.889)
+2019-09-20 17:54:57 [http-nio-3000-exec-1] DEBUG c.m.SpringBootLoggingExampleApplication
+				-Request nawaz
+2019-09-20 17:54:57 [http-nio-3000-exec-1] DEBUG c.m.SpringBootLoggingExampleApplication
+				-Response Hi nawaz Welcome to Java Techie
+2019-09-20 17:56:02 [http-nio-3000-exec-4] DEBUG c.m.SpringBootLoggingExampleApplication
+				-Request test
